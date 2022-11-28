@@ -1,9 +1,9 @@
 This snapshot was automatically generated on
-Wed, 28 May 2014 16:58:24 +0000
+Wed, 28 May 2014 16:53:58 +0000
 
 Version: 5.4.29
 Branch: HEAD
-Build: C:\php-sdk\php54dev\vc9\x86\obj\Release_TS
+Build: C:\php-sdk\php54dev\vc9\x86\obj\Release
 
 Built-in Extensions
 ===========================
